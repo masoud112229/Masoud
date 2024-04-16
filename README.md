@@ -44,12 +44,9 @@ If you wish to contribute to this project, you can:
 - Push to the branch (`git push origin feature-branch`).
 - Create a new Pull Request.
 
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Contact
 - GitHub [@masoud112229](https://github.com/masoud112229)
-- Email - [YourEmail@example.com](mailto:masoud.aghayan64@gmail.com)
+- Email - [masoud.aghayan64@gmail.com](mailto:masoud.aghayan64@gmail.com)
 
 Please feel free to contact me if you have any questions or feedback!
 
