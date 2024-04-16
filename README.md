@@ -45,8 +45,9 @@ If you wish to contribute to this project, you can:
 - Create a new Pull Request.
 
 ## Contact
-- GitHub [@masoud112229](https://github.com/masoud112229)
-- Email - [masoud.aghayan64@gmail.com](mailto:masoud.aghayan64@gmail.com)
+- GitHub: [@masoud112229](https://github.com/masoud112229)
+- Email: [masoud.aghayan64@gmail.com](mailto:masoud.aghayan64@gmail.com)
+- LinkedIn: [Masoud Aghayan](www.linkedin.com/in/masoud-aghayan-131586171)
 
 Please feel free to contact me if you have any questions or feedback!
 
